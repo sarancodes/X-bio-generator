@@ -1,5 +1,5 @@
 # X bio generator
  A biography generator for your profile.
  
- Demo at https://bio-hp-react.vercel.app/
+ Demo at https://bioxreact.vercel.app/
 ### Powered by ChatGPT
