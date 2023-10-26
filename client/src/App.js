@@ -130,7 +130,7 @@ async function GetMessage(){
 
        
   let v='Generate 2 '+tone+', attention-grabbing '+plat+' biography. The biography should be within 160 characters with '+emoji+' and '+hash+' hashtags. Also make it unique with a personal touch on the context :'+q;
-  console.log(v);
+  //console.log(v);
   const options={
       method: 'POST',
       headers:{
